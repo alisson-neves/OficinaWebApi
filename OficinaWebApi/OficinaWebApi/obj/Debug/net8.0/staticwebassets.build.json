@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Vde2fHPGNOIjn1ztYptkYUIOJJpn0GiTxZD/suYRcPg=",
+  "Source": "OficinaWebApi",
+  "BasePath": "_content/OficinaWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
